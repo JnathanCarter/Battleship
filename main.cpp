@@ -6,7 +6,7 @@
 	@author <insert your name here>
 	@version 1.0
 */
-//adding comments 
+//adding comments but this is part 2
 #include <ctime>
 #include "util.h"
 #include "grid.h"
