@@ -6,6 +6,7 @@ int main(int argc, char** argv) {
 	std::string myname = "jonathan carter";
 	std::cout<<"his name is "<<myname;
 	
+	//this is a test of git
 	
 	
 	
